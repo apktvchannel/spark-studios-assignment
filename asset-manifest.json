@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spark-studios-assignment.git/static/css/main.46d885b8.css",
+    "main.js": "/spark-studios-assignment.git/static/js/main.b43186ec.js",
+    "static/media/Certificate.svg": "/spark-studios-assignment.git/static/media/Certificate.14d19ac2c9f46efae2746000bb4ac5e0.svg",
+    "index.html": "/spark-studios-assignment.git/index.html",
+    "static/media/Games.svg": "/spark-studios-assignment.git/static/media/Games.52b33710015a4c9b0385c0133324b5d0.svg",
+    "static/media/Banner.svg": "/spark-studios-assignment.git/static/media/Banner.10c6bf1f68645c1b8120391c5af56237.svg",
+    "static/media/Activities.svg": "/spark-studios-assignment.git/static/media/Activities.0fd9aaad0752efd7b05fdf6db3fff16f.svg",
+    "main.46d885b8.css.map": "/spark-studios-assignment.git/static/css/main.46d885b8.css.map",
+    "main.b43186ec.js.map": "/spark-studios-assignment.git/static/js/main.b43186ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d885b8.css",
+    "static/js/main.b43186ec.js"
+  ]
+}
