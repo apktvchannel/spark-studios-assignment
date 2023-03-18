@@ -1,0 +1,267 @@
+.container {
+  width: 100%;
+  /* height: 140px; */
+  background-color: #003f5c;
+  border-radius: 4px;
+}
+
+.tagContainer {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.tagContainer img {
+  position: absolute;
+}
+
+.tagContainer h3 {
+  position: relative;
+  font-family: "Lato";
+  font-weight: 800;
+  font-size: 14px;
+  color: #333333;
+  margin: 0px;
+  margin-left: 17px;
+}
+
+.headerTag::after {
+  content: "";
+  width: 25px;
+  height: 25px;
+  right: -13px;
+  bottom: 3px;
+  background-color: #d5f1fe;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+}
+
+.headerTag::after:hover {
+  color: #006292;
+}
+
+.headerTag h3:hover {
+  color: #006292;
+}
+
+.container h1 {
+  /* padding-top: 70px; */
+  margin: 0px;
+  padding-left: 17px;
+  padding-right: 17px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.tagDiscount {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quarterCircle {
+  top: 0px;
+  right: 0px;
+  height: 75px;
+  width: 75px;
+  margin: 0px;
+  border-bottom-left-radius: 100%;
+  border-top-right-radius: 3px;
+  background: #d5f1fe;
+}
+
+.quarterCircle h3 {
+  font-family: "Lato";
+  font-weight: 900;
+  font-size: 16px;
+  text-align: center;
+  width: 20px;
+  margin: 0px;
+  margin-top: 15px;
+  margin-left: 25px;
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+.container p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff;
+  padding-left: 17px;
+  margin-top: 5px;
+}
+
+.review {
+  /* height: 24px; */
+  margin-left: 17px;
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+}
+
+.review p {
+  margin: 0px;
+}
+
+/* /////////////////////////// INACTIVE ////////////////////// */
+
+.communicationStyle {
+  width: 100%;
+  background-color: #d9f9ff;
+  border-radius: 4px;
+}
+
+.communicationStyle h1 {
+  margin: 0px;
+  padding-left: 17px;
+  padding-right: 17px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #1bd9ff;
+}
+
+.communicationStyleSetQuarterCircleStyle {
+  top: 0px;
+  right: 0px;
+  height: 75px;
+  width: 75px;
+  margin: 0px;
+  border-bottom-left-radius: 100%;
+  border-top-right-radius: 3px;
+  background: #1bd9ff;
+}
+
+.communicationStyleSetQuarterCircleStyle h3 {
+  font-family: "Lato";
+  font-weight: 900;
+  font-size: 16px;
+  text-align: center;
+  width: 20px;
+  margin: 0px;
+  margin-top: 15px;
+  margin-left: 25px;
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+.communicationReview {
+  margin-left: 17px;
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+}
+
+.communicationReview p {
+  margin: 0px;
+}
+
+/* ////////////////////////////////// */
+
+.visualArtsStyle {
+  width: 100%;
+  background-color: #dcccff;
+  border-radius: 4px;
+}
+
+.visualArtsStyle h1 {
+  margin: 0px;
+  padding-left: 17px;
+  padding-right: 17px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #6f34ee;
+}
+
+.visualArtsStyleSetQuarterCircleStyle {
+  top: 0px;
+  right: 0px;
+  height: 75px;
+  width: 75px;
+  margin: 0px;
+  border-bottom-left-radius: 100%;
+  border-top-right-radius: 3px;
+  background: #9462ff;
+}
+
+.visualArtsStyleSetQuarterCircleStyle h3 {
+  font-family: "Lato";
+  font-weight: 900;
+  font-size: 16px;
+  text-align: center;
+  width: 20px;
+  margin: 0px;
+  margin-top: 15px;
+  margin-left: 25px;
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+.visualReview {
+  margin-left: 17px;
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+}
+
+.visualReview p {
+  margin: 0px;
+}
+
+/* ////////////////////////////////// */
+
+.musicStyle {
+  width: 100%;
+  background-color: #ffedc8;
+  border-radius: 4px;
+}
+
+.musicStyle h1 {
+  margin: 0px;
+  padding-left: 17px;
+  padding-right: 17px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #f9b215;
+}
+
+.musicStyleSetQuarterCircleStyle {
+  top: 0px;
+  right: 0px;
+  height: 75px;
+  width: 75px;
+  margin: 0px;
+  border-bottom-left-radius: 100%;
+  border-top-right-radius: 3px;
+  background: #f9b215;
+}
+
+.musicStyleSetQuarterCircleStyle h3 {
+  font-family: "Lato";
+  font-weight: 900;
+  font-size: 16px;
+  text-align: center;
+  width: 20px;
+  margin: 0px;
+  margin-top: 15px;
+  margin-left: 25px;
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+.musicReview {
+  margin-left: 17px;
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+}
+
+.musicReview p {
+  margin: 0px;
+}

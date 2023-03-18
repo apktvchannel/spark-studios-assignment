@@ -1,0 +1,46 @@
+.container {
+  font-family: "Lato";
+  margin: 17px;
+}
+.amountSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.amountSection h3 {
+  font-weight: 700;
+  font-size: 24px;
+  color: #333333;
+  margin: 0px;
+}
+
+.amountSection p {
+  font-weight: 700;
+  font-size: 18px;
+  color: #333333;
+  margin: 0px;
+}
+
+.amountSection p span {
+  font-weight: 400;
+  font-size: 18px;
+  color: #666666;
+  margin: 0px;
+}
+
+.container h6 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #999999;
+  margin: 0px;
+  text-decoration: line-through;
+}
+
+.footerNote {
+  font-weight: 500;
+  font-size: 14px;
+  color: #f47759;
+  display: flex;
+  justify-content: center;
+}

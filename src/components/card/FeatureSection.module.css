@@ -1,0 +1,35 @@
+.featureSection {
+  height: 39px;
+  width: 100%;
+  background: #d5f1fe;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.feature {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.feature img {
+  width: 18px;
+}
+
+.feature h3 {
+  font-family: "Lato";
+  font-weight: 600;
+  font-size: 14px;
+  color: #333333;
+  margin-left: 5px;
+}
+
+.features {
+  margin: 0px 17px 0px 17px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
